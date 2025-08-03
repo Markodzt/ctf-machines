@@ -8,7 +8,7 @@ The goal of this machine was to perform a full penetration test, covering enumer
 
 ## Contents
 
-- Detailed report and walkthrough in [MF0486_ExP_Di_zitti_marco.md](./MF0486_%20Examen_Practico/MF0486_ExP_Di_zitti_marco.md)
+- Detailed report and walkthrough in [MF0486_ExP_Di_zitti_marco.md](https://github.com/Markodzt/ctf-machines/blob/main/MF0486_%20Examen_Practico/MF0486_ExP_Di_zitti_marco.md)
 - Screenshots and evidence of exploitation
 
 ## Summary
