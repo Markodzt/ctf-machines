@@ -9,7 +9,7 @@ Each subfolder represents a machine with its configuration files, exploits, and 
 
 ## Included Machines
 
-- ![**MF0486_ Examen_Practico**](https://github.com/Markodzt/ctf-machines/tree/main/MF0486_%20Examen_Practico): brief description
+- [**MF0486_ Examen_Practico**](https://github.com/Markodzt/ctf-machines/tree/main/MF0486_%20Examen_Practico): brief description
 
 ---
 
