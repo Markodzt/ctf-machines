@@ -1,6 +1,6 @@
 # MF0486 | Examen Practico
 
-# Tipo de reconocimiento
+## Tipo de reconocimiento
 1. **En una auditoría se utiliza el servicio de ASN Lookup para identificar los bloques de direcciones IP asignados a la empresa objetivo y luego se consulta Shodan para ver qué servicios están expuestos**
 - Pasivo 
 
@@ -28,7 +28,7 @@
 
 ---- 
 
-# Reconocimiento de dominios 
+## Reconocimiento de dominios 
 
 1. **¿Quién es el registrador?**
 
@@ -106,7 +106,7 @@
 
 ![image](Images/AFECTA.png)
 
-# Introducción al análisis de vulnerabilidades - 02
+## Introducción al análisis de vulnerabilidades - 02
 
 1. **¿Qué CVE asociado tiene el plugin para Wordpress, Elementor en su versión 2.6.9?**
 
@@ -128,7 +128,7 @@
 
 ----
 
-# Introducción al análisis de vulnerabilidades - 03
+## Introducción al análisis de vulnerabilidades - 03
 
 1. **¿Qué problema tuvo Microsoft Excel en 2023?**
 
@@ -184,7 +184,7 @@
 
 ----
 
-# Accediendo al host
+## Accediendo al host
 
 1. **¿Cuál es el rango de cada uno de los octetos de una IP?**
 
@@ -210,7 +210,7 @@
 
 ----
 
-# Reconocimeinto del host
+## Reconocimeinto del host
 
 1. **¿A través de que puerto se accede al servicio web?**
 
@@ -228,7 +228,7 @@
 
 ----
 
-#  Reconociento el Web Site 
+##  Reconociento el Web Site 
 
 1. **¿Cúal es el mensaje del la imagen?**
 
@@ -250,7 +250,7 @@
 
 ----
 
-# Iniciando el desarrollo
+## Iniciando el desarrollo
 
 1. **¿Cuál es el acrónimo de Hypertext Preprocessor?**
 
@@ -270,7 +270,7 @@
 
 ----
 
-# Accionando keys
+## Accionando keys
 
 1. **¿qué error nos muestra?**
 
@@ -304,7 +304,7 @@
 
 ----
 
-# Accediendo al host
+## Accediendo al host
 
 1. **¿Qué aplicación de comunicación utilizarías para conectarte de forma remota a MACHINE_IP ?**
 
@@ -320,7 +320,7 @@
 
 ----
 
-# Reconocimiento interno
+## Reconocimiento interno
 
 1. **¿Ha que directorio se accede por defecto?**
 
@@ -375,7 +375,7 @@
   · /var/log/
 
 ----
-# Ultimate Challenge
+## Ultimate Challenge
 
 1. **¿Qué IP de usuario se descargó el Troyano?**
 
