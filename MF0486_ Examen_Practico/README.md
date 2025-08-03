@@ -1,35 +1,36 @@
 # MF0486 - Examen Práctico
 
-This document summarizes the practical exam challenges and solutions for the MF0486 machine.
+Este documento resume los retos y soluciones del examen práctico correspondiente a la máquina MF0486.
 
-## Overview
+## Descripción general
 
-The goal of this machine was to perform a full penetration test, covering enumeration, exploitation, and privilege escalation steps.
+El objetivo de esta máquina fue realizar un test de penetración completo, abarcando las fases de enumeración, explotación y escalada de privilegios.
 
-## Contents
+## Contenido
 
-- Detailed report and walkthrough in [MF0486_ExP_Di_zitti_marco.md](https://github.com/Markodzt/ctf-machines/blob/main/MF0486_%20Examen_Practico/MF0486_ExP_Di_zitti_marco.md)
-- Screenshots and evidence of exploitation
+- Informe detallado y walkthrough: [MF0486_ExP_Di_zitti_marco.md](https://github.com/Markodzt/ctf-machines/blob/main/MF0486_%20Examen_Practico/MF0486_ExP_Di_zitti_marco.md)
+- Capturas de pantalla y evidencias del proceso de explotación
 
-## Summary
+## Resumen
 
-- Initial reconnaissance and scanning
-- Vulnerability discovery and exploitation
-- Gained access and escalated privileges
-- Collected flags and documented findings
+- Reconocimiento y escaneo inicial
+- Identificación y explotación de vulnerabilidades
+- Acceso inicial y escalada de privilegios
+- Obtención de flags y documentación de hallazgos
 
-## Tools Used
+## Herramientas utilizadas
 
-- Nmap (port scanning)
-- HTTP tools (curl, browser)
-- [Exploit_Database](https://www.exploit-db.com/)
+- Nmap (escaneo de puertos)
+- Herramientas HTTP (curl, navegador web)
+- [Exploit-DB](https://www.exploit-db.com/)
 - Ping
-- cat, grep, and log analysis (to inspect files and logs)
-- gpg (for encryption/decryption tasks)
-- ssh (remote access)
-- uname (to gather system information)
+- cat, grep y análisis de logs (para inspección de archivos y registros)
+- gpg (para tareas de cifrado/descifrado)
+- ssh (acceso remoto)
+- uname (para recopilación de información del sistema)
 
 ---
 
-*For the full details, refer to the linked walkthrough file.*
+*Para más detalles, consulta el archivo del walkthrough enlazado arriba.*
+
 
